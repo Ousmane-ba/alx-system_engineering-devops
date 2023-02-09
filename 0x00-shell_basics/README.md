@@ -13,3 +13,4 @@ script that prints the type of a file
 Create a symbolic link
 Copy only certain html files
 script that moves all files beginning with an uppercase letter to a directory
+script that deletes all files in the current working directory that end with the character ~

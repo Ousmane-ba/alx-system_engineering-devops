@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Display current directory contents, including hidden files
 Display current directory contents with group IDs
 Create a script that creates a directory in another directory
+Move a file to another directory

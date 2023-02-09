@@ -6,3 +6,4 @@ script that adds execute permission to the owner of the file hello
  script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Full permisiion to the other and no permission to the owner and the group owner
+script that sets the mode of the file hello to -rwxr-x-wx

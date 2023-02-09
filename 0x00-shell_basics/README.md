@@ -8,3 +8,4 @@ Create a script that creates a directory in another directory
 Move a file to another directory
 Deleting a file
 Back to the future
+Write a script that lists all files in multiple directories

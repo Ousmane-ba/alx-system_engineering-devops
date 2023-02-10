@@ -9,3 +9,4 @@ Full permisiion to the other and no permission to the owner and the group owner
 script that sets the mode of the file hello to -rwxr-x-wx
  sets the mode of the file hello the same as olleh's
 script that adds execute permission to all subdirectories of the current directory
+script that creates a directory called my_dir with permissions 751 in the working directory

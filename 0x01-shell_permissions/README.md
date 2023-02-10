@@ -11,3 +11,4 @@ script that sets the mode of the file hello to -rwxr-x-wx
 script that adds execute permission to all subdirectories of the current directory
 script that creates a directory called my_dir with permissions 751 in the working directory
 Change group owner to school
+script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.

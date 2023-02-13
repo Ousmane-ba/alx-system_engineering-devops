@@ -3,3 +3,4 @@ This script displays a confused smiley
 Display the content of a file
 Displaying the content of two files
 Displays the last 10 lines of a file
+Display the first 10 lins of a file

@@ -6,3 +6,4 @@ Displays the last 10 lines of a file
 Display the first 10 lins of a file
 Displaying the third line of a file
 script that creates a file named exactly 
+script that writes into the file ls_cwd_content the result of the command ls -la

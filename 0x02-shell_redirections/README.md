@@ -17,3 +17,4 @@ isplay the number of lines that contain the pattern bin in the passwd file
 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 Display all the lines in the file /etc/passwd that do not contain the pattern
 Display all lines ofa file starting with a letter
+Replace all characters A and c from input to Z and e respectively

@@ -23,3 +23,4 @@ Write a script that reverse its input
 script that displays all users and their home directories, sorted by users
 command that finds all empty files and directories in the current directory and all sub-directories
 script that lists all the files with gif extension
+An acrostic poem

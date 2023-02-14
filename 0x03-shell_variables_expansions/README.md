@@ -15,3 +15,4 @@ Print decimals
 script that converts a number from base 10 to base 16
 script that encodes and decodes text using the rot13 encryption
 Print every other line of a file starting from line 1
+Script that add the two numbers stored in the environment variable
